@@ -1,4 +1,7 @@
 module.exports = {
+  css: [
+    '~assets/scss/global/variables.scss'
+  ],
   /*
   ** Headers of the page
   */
@@ -36,4 +39,3 @@ module.exports = {
     }
   }
 }
-
