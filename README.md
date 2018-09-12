@@ -1,4 +1,4 @@
-# Starter
+# Nuxt Scss Pug Starter
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
 
@@ -13,7 +13,7 @@ Make sure to have `node 8.0+` and `npm 5.0+` installed
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init nuxt-community/starter-template my-project  
+$ vue init webmil/nuxt-scss-pug-starter-template my-project
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
@@ -21,16 +21,21 @@ $ npm install # Or yarn install
 
 > Make sure to use a version of vue-cli >= 2.1 (`vue -V`).
 
+## Included features
+
+* [Sass](http://sass-lang.com/)
+* [Pug](https://pugjs.org/)
+
 ## Usage
 
 ### Development
 
 ``` bash
-# serve with hot reloading at localhost:3000
+# serve with hot reloading at localhost:3100
 $ npm run dev
 ```
 
-Go to [http://localhost:3000](http://localhost:3000)
+Go to [http://localhost:3100](http://localhost:3100)
 
 ### Production
 
