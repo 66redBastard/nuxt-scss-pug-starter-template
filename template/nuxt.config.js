@@ -1,6 +1,7 @@
 module.exports = {
   css: [
-    '~assets/scss/global/variables.scss'
+    '~assets/scss/global/variables.scss',
+    '~assets/scss/global/layout.scss'
   ],
   /*
   ** Headers of the page
