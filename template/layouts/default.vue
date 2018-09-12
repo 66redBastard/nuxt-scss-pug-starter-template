@@ -1,7 +1,6 @@
-<template>
-  <div>
-    <nuxt/>
-  </div>
+<template lang="pug">
+  div
+    nuxt
 </template>
 
 <style>
@@ -50,4 +49,3 @@ html {
   background-color: #35495e;
 }
 </style>
-
